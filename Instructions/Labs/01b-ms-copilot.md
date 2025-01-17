@@ -12,6 +12,8 @@ lab:
 
 请准备好在这个引人入胜的交互式实验室中发挥你的创造力和商业才智。 在本练习结束时，你将获得一套全面的带你走上创业成功之路的教材。 让我们开始吧，让你的企业清洁公司成为现实！
 
+> **重要说明**：本练习提供了使用 Copilot 时可用到的提示。 应将这些作为探索 Copilot 的*起点*。 建议修改这些提示，并添加自己的提示，以便与 Copilot 进行迭代对话并优化其生成的结果。 你可能不会完全以练习说明中所述的输出作为结尾，但这没关系 - 关键是要借助 Copilot 进行联系。
+
 完成此练习大约需要 40 分钟。
 
 > **注意**：本练习假设你有一个[个人 Microsoft 帐户](https://signup.live.com)（例如 outlook.com 帐户），你使用该帐户登录到你的计算机上的 [Microsoft Edge](https://www.microsoft.com/edge/download)。 如果你同时拥有工作帐户和个人帐户，请确保在 Microsoft Edge 左上角的帐户设置中选择*个人*帐户。
@@ -29,6 +31,8 @@ lab:
 1. 使用 Edge 工具栏上的 Copilot**** 图标打开 Copilot 窗格，如下所示：
 
     ![Microsoft Edge 中的 Copilot 窗格的屏幕截图。](./Media/edge-copilot.png)
+
+    > **提示**：Microsoft Copilot 在不断改进。 用户界面可能与显示的图像不完全匹配。
 
 1. 在 Copilot 窗格底部的聊天框中，输入以下提示：
 
@@ -100,7 +104,6 @@ lab:
 
 在 Copilot 的帮助下，你已经为清洁业务想法创建了一份商业计划草稿。 现在，让我们使用 Copilot 执行一些计算，以帮助进一步优化业务计划。
 
-1. 在 OneDrive 中，使用“**(+)**”按钮添加新的 ** Excel 工作簿**。 然后将工作簿的名称更改为 `Financial Projections`。
 1. 在 Copilot 窗格中，输入以下提示：
 
     ```prompt
@@ -108,7 +111,9 @@ lab:
     ```
 
 1. 查看回复，其中应包括未来五年的预计利润表。
-1. 将表复制到剪贴板（注意只选择该表）。 然后在 Excel 工作簿中选择单元格 A1，在“**开始**”选项卡上的“**剪贴板**”菜单中的“**选择性粘贴**”下，选择“**仅值**”，以便将表中的值粘贴到电子表格中，如下所示：
+1. 如果显示 Excel 中编辑表的选项，请选择该选项以使用数据表创建新的工作簿。 否则，请返回到 OneDrive 选项卡，并使用“**(+)**”按钮添加新的 **Excel 工作簿**。 然后将 Copilot 窗格中的数据表复制到工作簿中。
+
+1. 将工作簿的名称更改为 `Financial Projections`。 应如下所示：
 
     ![Excel 工作簿的屏幕截图，其中包含 Copilot 生成的数据。](./Media/generated-financials.png)
 
@@ -204,28 +209,8 @@ lab:
 你已经创建了一些辅助材料来帮助你启动业务。 现在是时候联系投资者来寻求一些启动资金了。
 
 1. 使用 OneDrive 标题栏左端的“**应用启动器**”打开 **Outlook**。
-1. 切换到“**日历**”页，并将视图更改为“**工作周**”。 如果日历中没有任何计划事件，可以添加一些，以便 Copilot 有一些要处理的信息。
-1. 在 Copilot 窗格中，输入以下提示：
 
-    ```prompt
-    What events do I have scheduled in this calendar?
-    ```
-    
-    Copilot 应该能够读取网页中的日历并识别日历中的事件：
-
-    ![Outlook 日历的屏幕截图，其中包含 Copilot 标识事件。](./Media/calendar-events.png)
-
-1. 尝试使用此提示检查你是否有时间与银行经理会面，以便为业务融资：
-
-    ```prompt
-    What's my availability for a meeting this week?
-    ```
-
-    Copilot 应根据 Outlook 网页中的日历信息提供可用性摘要。
-
-    > **注意**：Microsoft Copilot 可以读取在浏览器中打开的日历页面（并可能在当前会话期间“记住”详细信息），但它不能直接访问日历数据。 在企业环境中，组织可以使用 Microsoft 365 Copilot，它*可以*访问 Outlook 中的日历和电子邮件，以及 Microsoft Teams 等其他企业应用中的信息。
-
-1. 切换到“**邮件**”页，创建一个新的电子邮件。 在“**收件人**”框中填入自己的电子邮件地址，并将“**主题**”设置为 `Business funding meeting request`。
+1. 在“**邮件**”页，创建一个新的电子邮件。 在“**收件人**”框中填入自己的电子邮件地址，并将“**主题**”设置为 `Business funding meeting request`。
 1. 在 Copilot 窗格中，输入以下提示：
 
     ```prompt
