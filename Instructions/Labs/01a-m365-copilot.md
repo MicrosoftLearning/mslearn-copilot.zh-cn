@@ -12,6 +12,8 @@ lab:
 
 请准备好在这个引人入胜的交互式实验室中发挥你的创造力和商业才智。 在本练习结束时，你将获得一套全面的带你走上创业成功之路的教材。 让我们开始吧，让你的企业清洁公司成为现实！
 
+> **重要说明**：本练习提供了使用 Copilot 时可用到的提示。 应将这些作为探索 Copilot 的*起点*。 建议修改这些提示，并添加自己的提示，以便与 Copilot 进行迭代对话并优化其生成的结果。 你可能不会完全以练习说明中所述的输出作为结尾，但这没关系 - 关键是要借助 Copilot 进行联系。
+
 完成此练习大约需要 40 分钟。
 
 > **注意**：本练习需要 **Microsoft 365 Copilot** 许可证。
@@ -51,7 +53,7 @@ lab:
     How do I setup a new business in New York? Answer with a numbered list.
     ```
 
-1. 查看响应并根据需要跟进其他问题。 如果对响应感到满意，请使用响应下的“复制”(&#128461;) 图标将其复制到剪贴板****。 将其粘贴到 Word 文档中现有文本之后。 然后选择提供了在纽约创业时的待办事项清单的文本，并使用 Copilot 图标（所选文本底部）将文本可视化为表格。
+1. 查看响应并根据需要跟进其他问题。 如果对响应内容感到满意，请将其复制到剪贴板。 将其粘贴到 Word 文档中现有文本之后。 然后选择提供了在纽约创业时的待办事项清单的文本，并使用 Copilot 图标（所选文本底部）将文本可视化为表格。
 
     ![要求 Copilot 以表格格式进行可视化的屏幕截图。](./Media/copilot-rewrite-as-table.png)
 
@@ -82,7 +84,7 @@ lab:
 
     ![Copilot 起草商业计划的屏幕截图。](./Media/copilot-draft-business-plan-prompt.png)
 
-    > **提示**：键入提示，当你键入“/”时，Copilot 应该可以让你浏览 OneDrive 文件夹中的文档。 如果 Copilot 未建议任何文档，可能是因为你的 OneDrive 尚未完全编入索引。 在这种情况下，请将提示修改为 `Write a business plan for "Contoso Cleaning", a commercial cleaning buisness in New York. Include an executive summary, market overview, and financial projections.`。
+    > **提示**：键入提示，当你键入“/”时，Copilot 应该可以让你浏览 OneDrive 文件夹中的文档。 如果 Copilot 未建议任何文档，可能是因为你的 OneDrive 尚未完全编入索引。 在这种情况下，请将提示修改为 `Write a business plan for "Contoso Cleaning", a commercial cleaning business in New York. Include an executive summary, market overview, and financial projections.`。
 
 1. 生成并查看回复。 保留此回复，调整语气、长度，或要求 Copilot 根据新的提示进行改写。 将适当的标题和样式应用于文档，使其看起来很专业，然后再将其命名为 **Business Plan.docx** 保存到 OneDrive 文件夹中。 你的文档应如下所示：
 
@@ -130,8 +132,6 @@ lab:
     ![Excel 中的 Copilot 添加数据透视图的屏幕截图。](./Media/copilot-excel-chart-design.png)
 
 1. 保存工作簿并关闭 Excel。
-
-你刚刚使用 Word 中的 Copilot 创建的数据在 Excel 中对其进行了可视化。 在下一个练习中，你将开始使用 Outlook 中的 Copilot 撰写和发送有关已完成工作的电子邮件。
 
 ## 使用 Copilot 创建演示文稿的内容
 
