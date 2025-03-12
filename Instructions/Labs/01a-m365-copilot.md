@@ -24,12 +24,12 @@ lab:
 
 1. 在 Web 浏览器中，打开位于 `https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx` 的文档 [Business Idea.docx](https://github.com/MicrosoftLearning/mslearn-copilot/raw/main/Allfiles/Business%20Idea.docx)。 
 1. 将文件下载到“**下载**”文件夹中。 然后关闭 Web 浏览器。
-1. 将刚下载的文档“移动”或“复制并粘贴”到“OneDrive”文件夹************。
-1. 在“OneDrive”文件夹中****，在 Microsoft Word 中打开 **Business Idea.docx**（关闭任何欢迎消息或新功能通知），并查看文档，其中描述了有关纽约市一家清洁公司的一些高级想法。 如果出现提示，请选择顶部的“启用编辑”****。
+1. 将刚下载的文档“**移动**”或“**复制并粘贴**”到“**OneDrive**”文件夹。
+1. 在“**OneDrive**”文件夹中，在 Microsoft Word 中打开 **Business Idea.docx**（关闭任何欢迎消息或新功能通知），并查看文档，其中描述了有关纽约市一家清洁公司的一些高级想法。 如果出现提示，请选择顶部的“**启用编辑**”。
 
     > **提示**：如果“**导航**”窗格处于打开状态，则可以关闭该窗格以查看文档的更多内容。
 
-1. 在 Word 工具栏上查找并选择“Copilot”图标以打开 Copilot 窗格，如下所示（视觉主题可能会有所不同）****：
+1. 在 Word 工具栏上查找并选择“**Copilot**”图标以打开 Copilot 窗格，如下所示（视觉主题可能会有所不同）：
 
     ![Microsoft Word 中 Copilot 窗格的屏幕截图。](./Media/copilot-word-pane.png)
 
@@ -57,13 +57,13 @@ lab:
 
     ![要求 Copilot 以表格格式进行可视化的屏幕截图。](./Media/copilot-rewrite-as-table.png)
 
-1. 查看表格并要求 Copilot 添加更多信息，例如包含更多详细信息的参考列。  响应外观应如下所示（可能需要使用“重新生成”按钮）****：
+1. 查看表格并要求 Copilot 添加更多信息，例如包含更多详细信息的参考列。  响应外观应如下所示（可能需要使用“**重新生成**”按钮）：
 
     ![采用表格格式的 Copilot 响应的屏幕截图。](./Media/copilot-rewrite-as-table-response.png)
 
     > **重要说明**：AI 生成的回复基于网上公开的信息。 虽然它可能有助于你了解创业所需的步骤，但它能不保证 100% 准确，也不能取代对专业建议的需求！
 
-1. 如果对 Copilot 生成的表格感到满意，请选择“保留”选项。****
+1. 如果对 Copilot 生成的表格感到满意，请选择“**保留**”选项。
 
 ## 使用 Copilot 创建商业计划的内容
 
@@ -108,14 +108,14 @@ lab:
     ```
 
 1. 将预计利润表复制到剪贴板。
-1. 打开 Excel，然后创建一个新的空白工作簿****。 立即将工作簿命名为 **Financial Projections.xlsx** 保存到 OneDrive 文件夹中。
+1. 打开 **Excel**，然后创建一个新的空白工作簿。 立即将工作簿命名为 **Financial Projections.xlsx** 保存到 OneDrive 文件夹中。
 1. 将利润预测表粘贴到 Excel 电子表格中，并将其**格式化为表格**。 要执行此操作：
     1. 选择数据中的 **单元格**。
-    1. 选择“开始”，然后选择“样式”下的“格式化为表格”********。 
+    1. 选择“**开始**”，然后选择“样式”下的“**格式化为表格**”。 
     1. 选择表格的样式。
-    1. 在“创建表格”对话框中，确认或设置单元格区域。****
-    1. 标记表是否带有标题，然后选择“确定”。****
-1. 将销售预测格式化为表格后，从 Excel 功能区的“开始”选项卡打开 Copilot 窗格并输入以下提示****：
+    1. 在“**创建表格**”对话框中，确认或设置单元格区域。
+    1. 标记表是否带有标题，然后选择“**确定**”。
+1. 将销售预测格式化为表格后，从 Excel 功能区的“**开始**”选项卡打开 Copilot 窗格并输入以下提示：
 
     ```prompt
     Suggest ways to visualize these financial projections.
@@ -127,7 +127,7 @@ lab:
 
     > **提示**：如果 Copilot 建议使用不同的数据格式，请输入以下提示 `Visualize the data as a line chart.`。
 
-1. 选择 Copilot 响应中的选项，将数据透视图添加到新工作表并打开它。 选择图表，然后选择“设计”以应用样式、更改图表类型和其他操作。**** 最后，应该具有类似于以下的图表：
+1. 选择 Copilot 响应中的选项，将数据透视图添加到新工作表并打开它。 选择图表，然后选择“**设计**”以应用样式、更改图表类型和其他操作。 最后，应该具有类似于以下的图表：
 
     ![Excel 中的 Copilot 添加数据透视图的屏幕截图。](./Media/copilot-excel-chart-design.png)
 
@@ -137,9 +137,9 @@ lab:
 
 在 Copilot 的帮助下，你已经为清洁业务想法创建了一份商业计划草稿，并制备了一些财务预测表格。 现在，你需要一份有效的演示文稿来传达业务优势。
 
-1. 打开 **PowerPoint** 并创建新的 **空白演示文稿**。 如果“设计器”**** 窗格自动打开，请将其关闭。
+1. 打开 **PowerPoint** 并创建新的 **空白演示文稿**。 如果“**设计器**”窗格自动打开，请将其关闭。
 1. 将演示文稿另存为 OneDrive 文件夹中的 **Cleaning Company.pptx**。
-1. 在功能区的“开始”选项卡中选择“Copilot”按钮，选择“创建演示文稿...”，然后在 Copilot 窗格中完成提示，如下所示：************
+1. 在功能区的“**开始**”选项卡中选择“**Copilot**”按钮，选择“**创建演示文稿...**”，然后在 Copilot 窗格中完成提示，如下所示：
 
     ```prompt
     Create a presentation about a corporate cleaning service named "Contoso Cleaning" in New York City. The presentation should include the benefits of using a professional cleaning business.
