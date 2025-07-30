@@ -78,7 +78,7 @@ lab:
     ```
 
 1. 查看回应。 然后在“Microsoft Word”窗格中的“**文件**”菜单中，创建一个新的空白文档。 如果“**设计器**”窗格打开，则关闭该窗格，并将新文档的名称从*文档*更改为 `Business Plan`。
-1. 复制在 Copilot 窗格中生成的业务计划，并将其粘贴到业务计划文档中：
+1. 复制在 Copilot 窗格中生成的业务计划，并将其粘贴到业务计划文档中，同时删除任何不必要的 Copilot 内容：
 
     ![包含 Copilot 生成的商业计划的 Word 文档的屏幕截图。](./Media/generated-content.png)
 
@@ -113,7 +113,7 @@ lab:
 1. 查看回复，其中应包括未来五年的预计利润表。
 1. 如果显示 Excel 中编辑表的选项，请选择该选项以使用数据表创建新的工作簿。 否则，请返回到 OneDrive 选项卡，并使用“**(+)**”按钮添加新的 **Excel 工作簿**。 然后将 Copilot 窗格中的数据表复制到工作簿中。
 
-1. 将工作簿的名称更改为 `Financial Projections`。 应如下所示：
+1. 将工作簿的名称更改为 `Financial projections`。 应如下所示：
 
     ![Excel 工作簿的屏幕截图，其中包含 Copilot 生成的数据。](./Media/generated-financials.png)
 
@@ -147,6 +147,8 @@ lab:
 
 1. 在演示文稿的标题幻灯片上，输入你的清洁公司的名称作为标题，输入 `Investor Opportunity` 作为副标题。
 1. 使用“**两栏内容**”幻灯片版式（其中包括标题和两个内容占位符）插入新幻灯片。
+    ![显示两个新内容幻灯片的屏幕截图。](./Media/two-content-slide.png)
+
 1. 将幻灯片标题更改为 `Benefits of Hiring a Commercial Cleaner`。
 1. 在 Copilot 窗格中，输入以下提示：
 

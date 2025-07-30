@@ -144,12 +144,16 @@ lab:
     ```prompt
     Create a presentation about a corporate cleaning service named "Contoso Cleaning" in New York City. The presentation should include the benefits of using a professional cleaning business.
     ```
+1. 查看演示文稿设计，然后选择“生成幻灯片”。****
 
+    ![由 Copilot 根据 Word 文档创建的 PowerPoint 演示文稿的屏幕截图。](./Media/copilot-generate-slides.png)
 1. Copilot 将在演示文稿中生成幻灯片。  此过程可能需要几分钟时间，输出应如下所示，但主题不同：
 
-    ![由 Copilot 根据 Word 文档创建的 PowerPoint 演示文稿的屏幕截图。](./Media/copilot-powerpoint-create-image.png)
+    ![由 Copilot 根据 Word 文档创建的 PowerPoint 演示文稿的屏幕截图。](./Media/generate-slides-copilot.png)
 
-1. 选择演示文稿中的倒数第二张幻灯片（如果 Copilot 生成了最后的“*总结*”幻灯片，则为此幻灯片之前的那张）。 然后，在 Copilot 窗格的聊天框中，选择 “**查看提示**”图标，然后选择“**添加有关...的幻灯片**”提示，以使用提示 `Add a slide about the benefits of an eco-friendly approach to cleaning.` 创建新幻灯片
+1. 选择“保留”，然后在 PowerPoint 演示文稿的右下角，将“视图”设置为“正常”  ![显示 PowerPoint 演示文稿创建新幻灯片的屏幕截图。](./Media/normal-presentation-view.png)************
+
+1. 选择演示文稿中的倒数第二张幻灯片（如果 Copilot 生成了最后的“*总结*”幻灯片，则为此幻灯片之前的那张）。 然后，在 Copilot 窗格的聊天框中，使用提示 `Add a slide about the benefits of an eco-friendly approach to cleaning.` 提示创建一个新幻灯片
 
     ![PowerPoint 演示文稿创建新幻灯片的屏幕截图。](./Media/copilot-powerpoint-add-new-slide.png)
 
